@@ -1,5 +1,1 @@
-Se sube este primer README
-
-Sube Cambio en README
-
-Sube tercer cambio
+Este Proeycto conta de aprender a realizar merge sobre las ramas master, para subir todo a main.
